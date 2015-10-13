@@ -1,0 +1,28 @@
+{
+  "name": "fe-bootcamp-npm",
+  "version": "1.0.0",
+  "description": "a simple site scraper",
+  "main": "app.js",
+  "dependencies": {
+    "superagent": "^1.4.0",
+    "cheerio": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octanner/fe-bootcamp-npm.git"
+  },
+  "keywords": [
+    "npmjs",
+    "scraper"
+  ],
+  "author": "Nhat Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octanner/fe-bootcamp-npm/issues"
+  },
+  "homepage": "https://github.com/octanner/fe-bootcamp-npm#readme"
+}
